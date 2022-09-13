@@ -1,8 +1,1 @@
 # pytesseract_test
-# pytesseract_test
-# pytesseract_test
-# pytesseract_test
-# pytesseract_test
-# pytesseract
-# pytesseract
-# pytesseract
